@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					98B98F941E48E12300ACD7D9 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = XG2JBVVXS4;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -260,6 +261,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = XG2JBVVXS4;
 				INFOPLIST_FILE = "Bip The Guy/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "IntroSwift.Bip-The-Guy";
@@ -272,6 +274,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = XG2JBVVXS4;
 				INFOPLIST_FILE = "Bip The Guy/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "IntroSwift.Bip-The-Guy";
